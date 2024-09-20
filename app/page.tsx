@@ -1,9 +1,6 @@
 "use client"
-import Image from "next/image";
 import Hero from "../app/components/Hero"
-import { motion ,AnimatePresence } from "framer-motion";
-import router from "next/navigation";
-import Navbar from "./components/Navbar";
+import { motion } from "framer-motion";
 
 
 export default function Home() {
