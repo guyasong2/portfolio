@@ -25,3 +25,14 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.roboto {
+  font-family: var(--font-roboto);
+  font-weight: 900;
+}
+
+.josefin {
+  font-family: var(--font-josefin_slab);
+  font-weight: 100;
+}
