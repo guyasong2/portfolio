@@ -16,7 +16,7 @@ const Hero = () => {
         <p className='josefin text-white text-2xl '>Welcome to</p>
         <h1 className='text-white font-bold roboto text-5xl md:text-5xl lg:text-9xl sm:text-5xl'>My Portfolio</h1>
 
-        <p className='pb-2 text-black'>This portfolio is a representation of all what I've learned and accomplished as a frontend developer</p>
+        <p className='pb-2 text-black'>This portfolio is a representation of all what I have learned and accomplished as a frontend developer</p>
         <div className='social flex space-x-2'>
           <a href="https://www.facebook.com/dean.lewis.988711?mibextid=LQQJ4d" target='_blank'><AiFillFacebook size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
           <a href="https://www.instagram.com/guy.asong?igsh=MXNobmNxZmM4c3lzMw%3D%3D&utm_source=qr" target='_blank'><AiFillInstagram size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
