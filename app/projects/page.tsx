@@ -3,7 +3,7 @@ import Image from "next/image";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import project2 from "@/public/project2.jpg";
 import prject3 from "@/public/project3.jpg"
-import { motion ,AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function Home() {
   return (
