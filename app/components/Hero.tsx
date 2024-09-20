@@ -13,7 +13,7 @@ const Hero = () => {
       </span>
 
       <span className='sm:col-span-4 p-5 w-full'>
-        <p className='josefin text-white text-2xl '>Welcome to</p>
+        <p className='josefin text-white text-3xl '>Welcome to</p>
         <h1 className='text-white font-bold roboto text-5xl md:text-5xl lg:text-9xl sm:text-5xl'>My Portfolio</h1>
 
         <p className='pb-2 text-black'>This portfolio is a representation of all what I have learned and accomplished as a frontend developer</p>
