@@ -37,7 +37,7 @@ export default function Home() {
             80%
           </span>
         </div>
-        <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+        <div className="w-full bg-gray-200 rounded-full h-2.5">
           <div className="bg-gray-800 h-2.5 rounded-full w-[80%]" ></div>
         </div>
 <br />
@@ -49,7 +49,7 @@ export default function Home() {
             90%
           </span>
         </div>
-        <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+        <div className="w-full bg-gray-200 rounded-full h-2.5">
           <div className="bg-gray-800 h-2.5 rounded-full w-[90%]" ></div>
         </div>
 <br />
@@ -62,7 +62,7 @@ export default function Home() {
             75%
           </span>
         </div>
-        <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+        <div className="w-full bg-gray-200 rounded-full h-2.5">
           <div className="bg-gray-800 h-2.5 rounded-full w-[75%]" ></div>
         </div>
 <br />
@@ -74,7 +74,7 @@ export default function Home() {
             80%
           </span>
         </div>
-        <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+        <div className="w-full bg-gray-200 rounded-full h-2.5">
           <div className="bg-gray-800 h-2.5 rounded-full w-[80%]" ></div>
         </div>
 <br />
@@ -86,7 +86,7 @@ export default function Home() {
             70%
           </span>
         </div>
-        <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+        <div className="w-full bg-gray-200 rounded-full h-2.5">
           <div className="bg-gray-800 h-2.5 rounded-full w-[70%]" ></div>
         </div>
         </article>
