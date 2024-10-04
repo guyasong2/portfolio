@@ -18,12 +18,12 @@ const Hero = () => {
 
         <p className='pb-2 text-black'>This portfolio is a representation of all what I have learned and accomplished as a frontend developer</p>
         <div className='social flex space-x-2'>
-          <a href="https://www.facebook.com/dean.lewis.988711?mibextid=LQQJ4d" target='_blank'><AiFillFacebook size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
-          <a href="https://www.instagram.com/guy.asong?igsh=MXNobmNxZmM4c3lzMw%3D%3D&utm_source=qr" target='_blank'><AiFillInstagram size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
-          <a href="https://x.com/@guy_asong" target='_blank'><AiFillTwitterCircle size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
-          <a href="https://www.linkedin.com/in/guy-asong-b8b1441b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target='_blank'><AiFillLinkedin size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
-          <a href="https://github.com/guyasong2/" target='_blank'><AiFillGithub size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
-          <a href="https://youtube.com/@codeguru3204?si=fsOIJ42QLqLAsX1a" target='_blank'><AiFillYoutube size={40} className='bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
+          <a href="https://www.facebook.com/dean.lewis.988711?mibextid=LQQJ4d" target='_blank'><AiFillFacebook size={40} className='text-black bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
+          <a href="https://www.instagram.com/guy.asong?igsh=MXNobmNxZmM4c3lzMw%3D%3D&utm_source=qr" target='_blank'><AiFillInstagram size={40} className='text-black bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
+          <a href="https://x.com/@guy_asong" target='_blank'><AiFillTwitterCircle size={40} className='text-black bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
+          <a href="https://www.linkedin.com/in/guy-asong-b8b1441b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target='_blank'><AiFillLinkedin size={40} className='text-black bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
+          <a href="https://github.com/guyasong2/" target='_blank'><AiFillGithub size={40} className='text-black bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
+          <a href="https://youtube.com/@codeguru3204?si=fsOIJ42QLqLAsX1a" target='_blank'><AiFillYoutube size={40} className='text-black bg-gray-200 hover:text-blue-500 rounded-full p-2 cursor-pointer'/></a>
         </div>
       </span>
     </main>
