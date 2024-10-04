@@ -18,7 +18,7 @@ export default function Home() {
         </h2>
 
         <div className="grid sm:grid-cols-4 gap-2 w-full sm:w-[80%] mx-auto m-6">
-          <div className="col-span-2 w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800">
+          <div className="col-span-2 w-full bg-white border border-gray-200 rounded-lg shadow">
             <a href="https://udown.netlify.app/">
               <Image src={project2} alt="First Project done by Guy Asong" className="rounded-t-lg"/>
             </a>
@@ -43,7 +43,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="col-span-2 w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800">
+          <div className="col-span-2 w-full bg-white border border-gray-200 rounded-lg shadow">
           <a href="https://udown.netlify.app/">
               <Image src={prject3} alt="First Project done by Guy Asong" className="rounded-t-lg"/>
             </a>
